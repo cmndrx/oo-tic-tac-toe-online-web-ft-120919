@@ -138,7 +138,4 @@ def play
   end
 end
 
-def TicTacToe(start)
-  play = start
-  play
 end
